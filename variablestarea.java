@@ -119,7 +119,7 @@ public class variablestarea {
 		System.out.println(a1.trim()); // devuelve una copia de la cadena con el espacio inicial y final omitido
 		System.out.println(a1.valueOf(a3));  // intercambia la informaciòn del string dado por el argumentado
 		System.out.println(a1.replace("i", "x")); // remplaza un caracter en el string por otro caracter
-		System.out.println(a2.equalsIgnoreCase(a3)); // compara 2 string ingnorando las consideraciones de minusculas
+		System.out.println(a1.equalsIgnoreCase(a3)); // compara 2 string ingnorando las consideraciones de minusculas
 		
 		
 		
